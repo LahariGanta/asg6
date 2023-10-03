@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.box{
+    width: 300px;
+    margin: 20px auto;
+    height: 370px;
+    border-radius: 24px;
+    padding:10px;
+    border: 2px solid black;
+}
+.img{
+    width: 100%;
+    height: 200px;
+    border-radius: 12px;
+}
+.btn{
+    background-color: blueviolet;
+    border: solid;
+    padding:5px;
+    border-radius: 13px;
+    margin: 0px auto;
+    color: white;
+    cursor: pointer;
+}
+.text>h3{
+    color: rgb(192, 41, 15);
+}
